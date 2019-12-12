@@ -13,7 +13,7 @@
 | 2  | Juniadi | II  |
 | 4  | Muhammad Pandu Surya Pranata  | II |
 | 5  | Beta Riadi  | II |
-| 6  |  Muhammad Yusuf Hijrah | II |
+| 6  |  Muhammad Yusuf Hijriah | II |
 | 7  |  Crishtuaji Satrio Edi Mudjiatmiko | II |
 | 8  |  Muhammad Agus Alfan Salim Hamid | II |
 | 11  |  Gia Fergio | II |
